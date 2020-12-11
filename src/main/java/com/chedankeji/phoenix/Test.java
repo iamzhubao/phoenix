@@ -10,9 +10,9 @@ import com.chedankeji.phoenix.sourceAndSink.KafkaSource;
 import com.chedankeji.phoenix.transformation.FlatMapFunc;
 import com.chedankeji.phoenix.transformation.Process4Format;
 
-public class NLU {
+public class Test {
 
-	private final static Logger logger = LoggerFactory.getLogger(NLU.class);
+	private final static Logger logger = LoggerFactory.getLogger(Test.class);
 
 	public static void main(String[] args) throws Exception {
 		// 测试环境mock

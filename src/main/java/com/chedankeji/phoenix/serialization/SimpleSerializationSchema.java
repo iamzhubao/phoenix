@@ -1,3 +1,5 @@
+package com.chedankeji.phoenix.serialization;
+
 
 import org.apache.flink.streaming.util.serialization.SerializationSchema;
 
