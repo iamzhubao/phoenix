@@ -43,7 +43,7 @@ public class Configs {
 		if (map.containsKey("groupId")) {
 			this.groupId = map.get("groupId");
 		} else {
-			this.groupId = "com.chedankeji";
+			this.groupId = "com.shengekeji";
 		}
 
 		if (map.containsKey("topicIn")) {
